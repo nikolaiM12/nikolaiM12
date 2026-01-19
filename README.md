@@ -4,11 +4,28 @@ Software Engineering student (2026) from Veliko Tarnovo, Bulgaria.
 I build clean, maintainable systems — mostly backend, but comfortable delivering full features end-to-end.
 
 ## 🧰 Stack
-![](https://skillicons.dev/icons?i=cs,dotnet,java,spring,postgres,mssql,ts,react,nextjs,tailwind,docker,rabbitmq,git,postman)
+<p align="left">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+</p>
 
 ## 📫 Contact
-- Email: [nikolaimashkov987@gmail.com](mailto:nikolaimashkov987@gmail.com)
-- LinkedIn: [nikolay-mashkov](https://www.linkedin.com/in/nikolay-mashkov)
+[![Email](https://img.shields.io/badge/nikolaimashkov987%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nikolaimashkov987@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/nikolay--mashkov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-mashkov)
 <!--
 **nikolaiM12/nikolaiM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
