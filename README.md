@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nikolay 👋
 
+Software Engineering student (2026) from Veliko Tarnovo, Bulgaria.  
+I build clean, maintainable systems — mostly backend, but comfortable delivering full features end-to-end.
+
+## 🧰 Stack
+![](https://skillicons.dev/icons?i=cs,dotnet,java,spring,postgres,mssql,ts,react,nextjs,tailwind,docker,rabbitmq,git,postman)
+
+## 📫 Contact
+- Email: [nikolaimashkov987@gmail.com](mailto:nikolaimashkov987@gmail.com)
+- LinkedIn: [nikolay-mashkov](https://www.linkedin.com/in/nikolay-mashkov)
 <!--
 **nikolaiM12/nikolaiM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
