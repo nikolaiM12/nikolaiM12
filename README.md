@@ -1,7 +1,7 @@
 # Hi, I'm Nikolay 👋
 
-Software Engineering student (2026) from Veliko Tarnovo, Bulgaria.  
-I build clean, maintainable systems — mostly backend, but comfortable delivering full features end-to-end.
+Software Engineering graduate and junior full-stack developer from Bulgaria.  
+I build full-stack features across backend APIs, relational databases, authentication flows, and React/TypeScript interfaces connected to real application behavior.
 
 ## 🧰 Stack
 <p align="left">
@@ -29,6 +29,14 @@ I build clean, maintainable systems — mostly backend, but comfortable deliveri
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 </p>
+
+## 🚀 Focus
+
+- Backend APIs with ASP.NET Core and Spring Boot
+- Relational databases with SQL Server and PostgreSQL
+- Authentication and role-based access flows
+- React/TypeScript interfaces connected to real API behavior
+- Docker-based local development environments
 
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/nikolaimashkov987%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nikolaimashkov987@gmail.com)
